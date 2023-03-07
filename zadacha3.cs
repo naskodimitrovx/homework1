@@ -1,4 +1,4 @@
-﻿namespace zadacha4
+﻿namespace zadacha3
 {
     internal class Program
     {
